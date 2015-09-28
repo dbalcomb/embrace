@@ -1,0 +1,12 @@
+{
+  "name": "embrace",
+  "version": "0.0.0",
+  "description": "Embrace framework.",
+  "keywords": [
+    "embrace",
+    "javascript",
+    "framework"
+  ],
+  "license": "MIT",
+  "repository": "dbalcomb/embrace"
+}
